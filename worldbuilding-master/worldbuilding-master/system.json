@@ -22,7 +22,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/TechnoAlchemisto/Untitled-Magus-Project",
-  "manifest": "https://github.com/TechnoAlchemisto/Untitled-Magus-Project/edit/main/worldbuilding-master/worldbuilding-master/system.json",
+  "manifest": "https://github.com/TechnoAlchemisto/Untitled-Magus-Project/raw/main/worldbuilding-master/worldbuilding-master/system.json",
   "download": "https://github.com/TechnoAlchemisto/Untitled-Magus-Project/archive/main.zip",
   "license": "LICENSE.txt"
 }
